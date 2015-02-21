@@ -1,0 +1,2 @@
+# GetAndCleaningDataProject
+ Project repository for Getting and Cleaning Data Course.  This project includes a script called run_analysis.R which can be ran against the dataset that is available here.  Download and extract the archive to a folder named data. You can then execute the run_analysis.R on that dataset which will output the results to a text file named tidyagg.txt.  A codebook is available in the repository and is named CodeBook.md.
